@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
+
+div {
+  margin-bottom: 35px;
+}
+
+button {
+  margin-left: 10px;
+  padding: 5px 10px;
+}
+
+pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  margin-top: 10px;
+}
